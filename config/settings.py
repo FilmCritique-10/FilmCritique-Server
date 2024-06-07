@@ -146,4 +146,5 @@ CORS_ALLOW_ALL_ORIGINS = True
 CSRF_TRUSTED_ORIGINS = [
     'http://localhost:3000',
     'http://127.0.0.1:8000',
+    'https://port-0-filmcritique-server-1mrfs72llwun15ls.sel5.cloudtype.app'
 ]
